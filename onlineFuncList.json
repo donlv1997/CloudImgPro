@@ -1,0 +1,12 @@
+[
+  {
+    "name": "云端超分辨放大",
+    "iconName": "enlarge.png",
+    "classStr": "com.example.dipframe.cloud.CloudImgPro",
+    "ip": "10.134.142.228",
+    "port": "8082",
+    "ext": {
+      "scale": "放大倍数,目前支持2倍和4倍:int"
+    }
+  }
+]
